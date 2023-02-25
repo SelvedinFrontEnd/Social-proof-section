@@ -6,7 +6,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - Solution URL: [Solution]()
 
-- Live Site URL: [Site]()
+- Live Site URL: [Site](https://socialproofsectionselvex.netlify.app)
 
 ### Built with
 
